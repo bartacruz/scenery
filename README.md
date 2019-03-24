@@ -1,0 +1,2 @@
+# scenery
+FlightGear custom scenery
